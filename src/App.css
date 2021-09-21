@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.ml-auto{
+  margin-left: auto;
+}
+
+#react-logo{
+  color: #00d8ff;
+}
+
+#imdb-logo{
+  color: #f5de50
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
